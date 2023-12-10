@@ -35,7 +35,7 @@ final List images = [
               ),
               SizedBox( height:  2.5,),
 
-              Text("John Doe")
+              Text("Salman Ahmed")
             ],
           );
         },
